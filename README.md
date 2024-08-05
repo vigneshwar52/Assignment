@@ -9,10 +9,15 @@ A simple Android app that displays a list of Pokémon and their details using Je
 - Support for both portrait and landscape orientations.
 
 ## Screenshots
+ListView:
+<img src="https://github.com/user-attachments/assets/25346877-e4a3-4df9-8b78-684395ab018b" alt="listView" width="400"/>
 
-![listView](https://github.com/user-attachments/assets/25346877-e4a3-4df9-8b78-684395ab018b)
+DetailedView:
+<img src="https://github.com/user-attachments/assets/59e65dfe-7a3a-4dfd-850e-d1246e4e5e87" alt="detailedView" width="400"/>
 
-![detailedView](https://github.com/user-attachments/assets/59e65dfe-7a3a-4dfd-850e-d1246e4e5e87)
+
+## Build APK Link:
+https://drive.google.com/file/d/19i62eYvYEgPOEX5WO4gtcPERCn7KrWpn/view?usp=drive_link
 
 ## Architecture
 
