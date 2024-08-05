@@ -1,4 +1,4 @@
-#  Pokémon Jetpack Compose App
+#  Pokemon Jetpack Compose App
 
 A simple Android app that displays a list of Pokémon and their details using Jetpack Compose. This app follows the MVVM architecture and uses Retrofit for network requests.
 
@@ -34,7 +34,7 @@ This app follows the Model-View-ViewModel (MVVM) architecture:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/pokemon-compose-app.git
+    git clone git@github.com:vigneshwar52/Assignment.git
     ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
